@@ -1,4 +1,4 @@
-//first way
+// first way
 
 function playGame() {
   var imgarr = [
