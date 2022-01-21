@@ -45,6 +45,16 @@ h1 {
   color: #4ecca3;
 }
 
+.btn {
+  background-color: #4ecca3;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  box-shadow: 5px 5px 10px black;
+}
+
 .container img {
   margin: 10px;
   width: 220px;
