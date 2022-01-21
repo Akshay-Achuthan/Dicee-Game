@@ -55,6 +55,11 @@ h1 {
   box-shadow: 5px 5px 10px black;
 }
 
+.button {
+  display: flex;
+  justify-content: center;
+}
+
 .container img {
   margin: 10px;
   width: 220px;
